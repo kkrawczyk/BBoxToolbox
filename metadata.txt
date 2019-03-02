@@ -1,0 +1,15 @@
+[general]
+name:BBoxToolbox
+description:BBoxToolbox is a set of tools for bbox calculating and visualization
+
+version:1.0
+qgisMinimumVersion:3.0
+experimental:True
+about: -
+
+changelog:
+    Version 1.0.0:
+    * Calculating bbox of objects
+
+email:k.krawczyk@nova-it.eu
+author:Krzysztof Krawczyk
