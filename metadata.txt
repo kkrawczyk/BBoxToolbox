@@ -1,15 +1,15 @@
 [general]
 name:BBoxToolbox
-description:BBoxToolbox is a set of tools for bbox calculating and visualization
+description:BBoxToolbox is a set of tools for bbox calculating and visualization.
 
 version:1.0
 qgisMinimumVersion:3.0
 experimental:True
-about: -
+about: Tools for calculate and visualize bounding boxes described in various formats.
 
 changelog:
-    Version 1.0.0:
-    * Calculating bbox of objects
+    Version 0.1.0:
+    * BBox preview in [Xmin, Xmax, Ymin, Ymax] format
 
 email:k.krawczyk@nova-it.eu
 author:Krzysztof Krawczyk
